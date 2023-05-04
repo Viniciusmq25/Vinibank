@@ -1,4 +1,5 @@
-# Vinibank
+#Vinibank
+#Alura
 
-Curso sa Alura de javascript
+Curso da Alura de javascript
 Vinibank é um banco, crie sua conta e tire uma foto para reconhecimento facial!
